@@ -1,2 +1,8 @@
-# myrepo
-this is my first repo
+# Мой первый проект на GitHub
+Привет! Это мой тестовый репозиторий.
+Здесь я учусь работать с:
+﻿﻿Git
+﻿﻿GitHub
+﻿﻿Markdown
+А вот [ссылка на мой файл про
+чай] (history-of-tea.md) •
